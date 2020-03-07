@@ -9,6 +9,7 @@ public class AirAsia {
 		System.out.println("hjjg");
 		System.out.println("new line");
 		System.out.println("goodbye");
+		System.out.println("gha");
 
 
 	}
